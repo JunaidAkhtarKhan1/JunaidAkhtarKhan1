@@ -96,6 +96,7 @@ I build **production-grade software** — systems that run long-term, handle rea
 - System redesigns and refactors
 
 Reach out via GitHub or LinkedIn.
+https://www.linkedin.com/in/m-junaid-akhtar-khan/
 
 ---
 
