@@ -95,8 +95,8 @@ I build **production-grade software** — systems that run long-term, handle rea
 - Long-term remote roles
 - System redesigns and refactors
 
-Reach out via GitHub or LinkedIn.
-https://www.linkedin.com/in/m-junaid-akhtar-khan/
+Reach out via Email: junaidakhtarkhan8@gmail.com
+OR LinkedIn: https://www.linkedin.com/in/m-junaid-akhtar-khan/
 
 ---
 
